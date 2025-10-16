@@ -1,1 +1,16 @@
 "geoid","geolevel","year","level","value"
+"44001","county",2023,"education_score",147.48
+"44003","county",2023,"education_score",128.92
+"44005","county",2023,"education_score",142.43
+"44007","county",2023,"education_score",121.11
+"44009","county",2023,"education_score",141.6
+"44001","county",2023,"education_rnk",98.3499
+"44003","county",2023,"education_rnk",91.7186
+"44005","county",2023,"education_rnk",97.198
+"44007","county",2023,"education_rnk",86.0523
+"44009","county",2023,"education_rnk",96.9801
+"44001","county",2023,"education_state_rnk",100
+"44003","county",2023,"education_state_rnk",25
+"44005","county",2023,"education_state_rnk",75
+"44007","county",2023,"education_state_rnk",0
+"44009","county",2023,"education_state_rnk",50

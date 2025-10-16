@@ -1,1 +1,10 @@
 "geoid","geolevel","year","level","value"
+"10001","county",2019,"education_score",111.4
+"10003","county",2019,"education_score",134.56
+"10005","county",2019,"education_score",105.93
+"10001","county",2019,"education_rnk",75.032
+"10003","county",2019,"education_rnk",94.5972
+"10005","county",2019,"education_rnk",65.3133
+"10001","county",2019,"education_state_rnk",50
+"10003","county",2019,"education_state_rnk",100
+"10005","county",2019,"education_state_rnk",0

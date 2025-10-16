@@ -1,1 +1,10 @@
 "geoid","geolevel","year","level","value"
+"10001","county",2023,"education_score",115.6
+"10003","county",2023,"education_score",131.89
+"10005","county",2023,"education_score",107.1
+"10001","county",2023,"education_rnk",80.4172
+"10003","county",2023,"education_rnk",93.1196
+"10005","county",2023,"education_rnk",67.4658
+"10001","county",2023,"education_state_rnk",50
+"10003","county",2023,"education_state_rnk",100
+"10005","county",2023,"education_state_rnk",0
